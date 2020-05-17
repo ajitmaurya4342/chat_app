@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "174212349572",
+    "firebase_url": "https://socket-ccc45.firebaseio.com",
+    "project_id": "socket-ccc45",
+    "storage_bucket": "socket-ccc45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174212349572:android:7abaa32d1a9374e777ccd1",
+        "android_client_info": {
+          "package_name": "com.socket.an2t.socket_app"
+        }
+      },
+
+      "oauth_client": [
+        {
+          "client_id": "174212349572-dpl0cvsrqs7lo3i2qfaqcp5fets0iqnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socket.an2t.socket_app",
+            "certificate_hash": "212b70dedf5a7289ae537c508ef91fe699d52353"
+          }
+        },
+        {
+          "client_id": "174212349572-7sjihg77jped3m33c2e816rq731hqqnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchO2s7ntcspGg6n6NhNSCiqg3BVeqY_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174212349572-7sjihg77jped3m33c2e816rq731hqqnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
